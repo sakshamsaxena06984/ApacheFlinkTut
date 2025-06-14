@@ -1,0 +1,11 @@
+
+L
+java:S37401"/Provide the parametrized type for this generic.(¦Î‡8»ªˆºö2
+E
+java:S1604"(Make this anonymous inner class a lambda(–´¯Å8¼ªˆºö2
+Z
+java:S3878#"8Remove this array creation and simply pass the elements.(¿¾øíøÿÿÿÿ8Ëªˆºö2
+e
+java:S1128"HRemove this unused import 'org.apache.flink.api.common.ExecutionConfig'.(ì¨¢á8Îªˆºö2
+s
+java:S1128"QRemove this unused import 'org.apache.flink.api.java.operators.UnsortedGrouping'.(£ûÈŒúÿÿÿÿ8Îªˆºö2

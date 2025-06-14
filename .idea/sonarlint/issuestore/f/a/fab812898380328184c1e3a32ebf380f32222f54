@@ -1,0 +1,19 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "mapped1".(€å‚Ç8¢»®»ö2
+]	java:S125"<This block of commented-out lines of code should be removed.(¬«€úüÿÿÿÿ8¤»®»ö2
+X	java:S125"<This block of commented-out lines of code should be removed.(áëÁÛ8ôê®»ö2
+I
+java:S1481",Remove this unused "mapped1" local variable.(€å‚Ç8¤»®»ö2
+]	java:S125 "<This block of commented-out lines of code should be removed.(²¼¤©üÿÿÿÿ8¤»®»ö2
+e
+java:S1128"CRemove this unused import 'org.apache.flink.api.java.tuple.Tuple3'.(À³ÏÆøÿÿÿÿ8Õ’±»ö2
+~
+java:S1128
+"aRemove this unused import 'org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator'.(íÔý÷8Õ’±»ö2
+R
+java:S1128"5Remove this unused import 'org.slf4j.ILoggerFactory'.(ÿ÷…£8Õ’±»ö2
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ8Õ’±»ö2
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Õ’±»ö2

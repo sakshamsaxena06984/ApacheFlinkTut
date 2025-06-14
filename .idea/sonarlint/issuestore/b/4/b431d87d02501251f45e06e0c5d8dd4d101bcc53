@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÈ§™þÿÿÿÿ8á¤ˆºö2
+]	java:S125"<This block of commented-out lines of code should be removed.( ¿©”ýÿÿÿÿ8Æ¥ˆºö2
+L	java:S106"+Replace this use of System.out by a logger.(ì­Ú³ýÿÿÿÿ8Î¥ˆºö2
+X	java:S125#"<This block of commented-out lines of code should be removed.(„öÇ°8Ï¥ˆºö2
+k
+java:S1128"NRemove this unused import 'org.apache.flink.streaming.api.TimeCharacteristic'.(çÓ°ä8Ó¥ˆºö2

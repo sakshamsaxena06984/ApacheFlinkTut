@@ -1,0 +1,16 @@
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/DataSourceSocket.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/DataSourceSocketV1.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/evictors/GlobalWindowEvcTut.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/AggregationOperations.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/FoldOperator.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/IterateOpr.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/ReduceOperation.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/SpilitOpr.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/Transformation.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/statestut/DataSourceState.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/statestut/StateDemo.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/GlobalWindowTut.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/SessionWindowTut.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/SlidingWindowTut.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/TumblingWindowEventTime.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/TumblingWindowTut.java

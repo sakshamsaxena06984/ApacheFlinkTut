@@ -1,0 +1,19 @@
+
+v
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¬œ³Ò8‚ªˆºö2
+{
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÚº’þÿÿÿÿ8‚ªˆºö2
+{
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏåµÁûÿÿÿÿ8‚ªˆºö2
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¦ô¾üÿÿÿÿ8ƒªˆºö2
+J
+java:S1604"(Make this anonymous inner class a lambda(”±—Øøÿÿÿÿ8„ªˆºö2
+X	java:S125"<This block of commented-out lines of code should be removed.(òÕèï8ªˆºö2
+=
+java:S2129 " Remove this "Double" constructor(¬œ³Ò8 ªˆºö2
+K
+java:S1874 ".Remove this use of "Double"; it is deprecated.(¬œ³Ò8¡ªˆºö2
+X	java:S125$"<This block of commented-out lines of code should be removed.(âžûÛ8¢ªˆºö2
+W	java:S125F"<This block of commented-out lines of code should be removed.(ƒñ‘m8¦ªˆºö2
+g
+java:S1128"JRemove this unused import 'org.apache.flink.core.fs.FileSystem.WriteMode'.(þòäÁ8¦ªˆºö2

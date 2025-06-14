@@ -1,0 +1,6 @@
+1,John,DC
+4,Smith,LA
+2,Albert,NY
+8,NULL,NH
+6,NULL,LU
+7,NULL,DL

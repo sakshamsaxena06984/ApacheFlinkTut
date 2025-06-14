@@ -1,0 +1,9 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã³÷¼úÿÿÿÿ8ÌŠÕ¼ö2
+^
+java:S11263"AReplace this if-then-else statement by a single return statement.(ÿºÜ•8ÛŠÕ¼ö2
+c
+java:S1126="AReplace this if-then-else statement by a single return statement.(¹æ¶–ùÿÿÿÿ8ÜŠÕ¼ö2
+~
+java:S1128	"aRemove this unused import 'org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator'.(íÔý÷8ÜŠÕ¼ö2
