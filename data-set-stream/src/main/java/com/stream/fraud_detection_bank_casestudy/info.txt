@@ -1,0 +1,4 @@
+Check if that customer in transaction is already alarmed in 'alarmed_consumers' data
+Check if the card is mentioned as lost in 'lost_cards' data
+Number of transactions are more than 10 in 1 minute.
+City of transaction is changed more than 2 times in the 1 min of time window
