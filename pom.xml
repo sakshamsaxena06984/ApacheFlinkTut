@@ -6,7 +6,7 @@
   <artifactId>flink-tut</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>windows</module>
+<!--    <module>windows</module>-->
       <module>data-set-batch</module>
       <module>data-set-stream</module>
   </modules>
@@ -20,6 +20,9 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
     <packaging>jar</packaging>
+    <flink.version>1.5.0</flink.version>
+    <scala.binary.version>2.11</scala.binary.version>
+<!--    <flink.version>1.17.2</flink.version>-->
   </properties>
 
   <dependencies>
@@ -33,17 +36,62 @@
     <dependency>
       <groupId>org.apache.flink</groupId>
       <artifactId>flink-java</artifactId>
-      <version>1.5.0</version>
+      <version>${flink.version}</version>
     </dependency>
+
+<!--    &lt;!&ndash; It was working fine but have some issue with table api&ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.apache.flink</groupId>-->
+<!--      <artifactId>flink-streaming-java_2.11</artifactId>-->
+<!--      <version>${flink.version}</version>-->
+<!--    </dependency>-->
+
+    <!-- Flink Streaming Java API -->
     <dependency>
       <groupId>org.apache.flink</groupId>
-      <artifactId>flink-streaming-java_2.11</artifactId>
-      <version>1.5.0</version>
+      <artifactId>flink-streaming-java_${scala.binary.version}</artifactId>
+      <version>${flink.version}</version>
     </dependency>
     <dependency>
       <groupId>org.apache.flink</groupId>
       <artifactId>flink-clients_2.11</artifactId>
+      <version>${flink.version}</version>
+    </dependency>
+
+    <!-- Flink Connector for Wikipedia -->
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient</artifactId>
+      <version>4.5.13</version>
+    </dependency>
+
+
+    <!-- JSON Processing -->
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-json</artifactId>
       <version>1.5.0</version>
+    </dependency>
+
+    <!-- Logging -->
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-slf4j-impl</artifactId>
+      <version>2.17.1</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.flink/flink-connector-kafka -->
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-connector-kafka</artifactId>
+      <version>3.2.0-1.19</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.flink/flink-table-api-java -->
+    <!-- Flink Table API -->
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-table_${scala.binary.version}</artifactId>
+      <version>${flink.version}</version>
     </dependency>
   </dependencies>
 

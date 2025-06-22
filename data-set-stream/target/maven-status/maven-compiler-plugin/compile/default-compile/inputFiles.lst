@@ -1,6 +1,12 @@
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/DataSourceSocket.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/DataSourceSocketV1.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/addsourcetut/WikipediaEditsStream.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/evictors/GlobalWindowEvcTut.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/fraud_detection_bank_casestudy/AlarmedCustomer.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/fraud_detection_bank_casestudy/Bank.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/fraud_detection_bank_casestudy/BankAnalysis.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/fraud_detection_bank_casestudy/LostCard.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/kafkaflink/KafkaConnet.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/AggregationOperations.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/FoldOperator.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/IterateOpr.java
@@ -9,6 +15,11 @@
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/opers/Transformation.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/statestut/DataSourceState.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/statestut/StateDemo.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/statestut/Testing.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/tableapi/Person.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/tableapi/TableFromDataSetAPI.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/tableapi/TableFromDataStreamAPI.java
+/Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/tableapi/TableFromDataStreamAPIV1.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/GlobalWindowTut.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/SessionWindowTut.java
 /Users/sakshamsaxena/koo/code/flink-tut/data-set-stream/src/main/java/com/stream/windowtut/SlidingWindowTut.java
